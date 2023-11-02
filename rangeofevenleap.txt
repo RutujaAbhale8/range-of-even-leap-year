@@ -1,0 +1,34 @@
+Class leap2
+{
+
+  Public static void main(String[] args)
+
+ Scanner S= new Scanner (System.in);
+
+ System. Out Printh ("Enter steating year!").
+
+  int start = s.nextInt();
+
+  System Out Println ("Enter end year");
+
+  int end = s.nextInt();
+
+    While (start <= end)
+    {
+
+    if ((Start %4 == 0 && start"% 100!=0) || (start % 400 ==0)
+    {
+
+   if (start % 2 ==0)
+    {
+
+
+   System out Println (start);
+
+  }
+ }
+
+    Start ++
+  }
+ }
+}
